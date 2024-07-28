@@ -37,8 +37,9 @@ After completing the game, players can choose to play again or exit.
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 ## Contact
-For any questions or feedback, please contact:
-Name: Mayuri Tupe Email: mayuritupe23@navgurukul.org
+#### For any questions or feedback, please contact:
+ Name: Mayuri Tupe 
+ Email: mayuritupe23@navgurukul.org
 
 ## Acknowledgements
 Thanks to all the online resources and tutorials that provided guidance and inspiration.
