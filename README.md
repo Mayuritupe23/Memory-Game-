@@ -20,7 +20,7 @@ Players receive feedback when they win or lose the game.
 After completing the game, players can choose to play again or exit.
 
 ## Technologies Used
-#### HTML: Structure of the game.
+#### HTML: ##### Structure of the game.
 #### CSS: Styling and layout.
 #### JavaScript: Game logic and interactivity.
 
